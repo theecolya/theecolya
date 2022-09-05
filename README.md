@@ -15,6 +15,7 @@
 
 ## Reach out!
 <a href="https://linkedin.com/in/colya-foxworth" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="colya-foxworth" height="30" width="40" />My LinkedIn</a>
+<a href="https://colyafoxworth.vercel.app" target="_blank"><img src="https://colyafoxworth.vercel.app/img/MyLogoSmall.png" alt="colya-foxworth" height="30" width="40" />My Portfolio</a>
 
 
 <!--
