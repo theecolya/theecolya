@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: **I've performed on Broadway**
 
-- 🌱 I’m currently learning: **Applied Computer Science**
+- 🌱 I’m currently learning: **Authentication and Authorization**
 
 - 🤝 I’m looking for help with: **finding a job**
 
